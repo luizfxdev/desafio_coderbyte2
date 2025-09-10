@@ -17,11 +17,17 @@ Total: **5 combinações válidas**
 ## 🚀 Funcionalidades
 
 ✨ **Interface Mágica**: Design moderno com tema lunar e cores vibrantes
+
 🎬 **Background Dinâmico**: Suporte para vídeo de fundo em tela cheia
+
 🌈 **Botões Animados**: Efeito glow colorido com gradientes em movimento
+
 📱 **Totalmente Responsivo**: Adapta perfeitamente para desktop, tablet e mobile
+
 🧮 **Cálculo Detalhado**: Mostra o processo completo de validação
+
 📊 **Visualização de Combinações**: Lista todas as combinações para números pequenos
+
 ⚡ **Algoritmo Otimizado**: Usa programação dinâmica para máxima eficiência
 
 ## 🛠️ Tecnologias Utilizadas
