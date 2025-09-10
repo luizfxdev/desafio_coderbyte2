@@ -33,8 +33,11 @@ Total: **5 combinações válidas**
 ## 🛠️ Tecnologias Utilizadas
 
 **HTML5:** Estrutura semântica e acessível
+
 **CSS3:** Animações avançadas, glassmorphism e gradientes
+
 **JavaScript ES6+:** Algoritmos otimizados e manipulação do DOM
+
 **Responsive Design:** Flexbox e media queries
 
 ## 📁 Estrutura do Projeto
