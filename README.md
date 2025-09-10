@@ -8,6 +8,9 @@ Ambientado em um tema mágico de inverno, onde uma bruxa caminha pela neve sob a
 Em uma noite fria e de lua cheia, uma poderosa bruxa enfrenta desafios para proteger segredos ancestrais da floresta oculta. 
 Entre a neve e o luar, cada combinação perfeita de parênteses revela encantamentos certos. O desafio consiste em encontrar todas as combinações válidas que podem ser formadas com n pares de parênteses.
 
+### 🔗 Desafio inspirado no desafio do Coderbyte – [Bracket Combinations](https://www.coderbyte.com/editor/Bracket%20Combinations:JavaScript)
+
+
 **Exemplo:**
 
 Para 3 pares de parênteses: ``()()(), ()((())), (())(), ((())), (()())``
@@ -159,6 +162,7 @@ Push para a branch (``git push origin feature/nova-feature``)
 Abrir um Pull Request
 
 ## ✨ Autor [Luizfxdev](https://www.linkedin.com/in/luizfxdev)
+
 
 Desenvolvido com 💜 para desvendar os mistérios matemáticos da noite lunar.
 
