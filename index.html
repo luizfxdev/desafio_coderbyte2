@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Decifrando o Enigma Lunar</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- Background de vídeo -->
+    <video id="background-video" autoplay muted loop>
+      <source src="assets/background.mp4" type="video/mp4" />
+      Seu navegador não suporta vídeos HTML5.
+    </video>
+
+    <!-- Container principal -->
+    <div class="main-container">
+      <div class="enigma-header">
+        <h1>🌙 Decifrando o Enigma Lunar ✨</h1>
+        <p class="subtitle">Descubra as combinações mágicas de parênteses na noite mais fria do inverno</p>
+      </div>
+
+      <!-- Campo de entrada -->
+      <div class="input-section">
+        <label for="number-input">Digite o número de pares de parênteses:</label>
+        <input type="number" id="number-input" min="0" placeholder="Ex: 3" tabindex="1" />
+      </div>
+
+      <!-- Botões -->
+      <div class="buttons-section">
+        <button class="glow-on-hover" id="solve-btn" type="button" tabindex="2">DESVENDAR</button>
+        <button class="glow-on-hover" id="reset-btn" type="button" tabindex="3">RETORNAR</button>
+      </div>
+
+      <!-- Seção de resultado -->
+      <div class="result-section" id="result-section">
+        <h3>🔮 Resultado Mágico</h3>
+        <div class="result-content" id="result-content">
+          <!-- O resultado será inserido aqui pelo JavaScript -->
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
