@@ -11,6 +11,7 @@ Entre a neve e o luar, cada combinação perfeita de parênteses revela encantam
 **Exemplo:**
 
 Para 3 pares de parênteses: ``()()(), ()((())), (())(), ((())), (()())``
+
 Total: **5 combinações válidas**
 
 ## 🚀 Funcionalidades
