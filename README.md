@@ -117,15 +117,21 @@ EntradaSaídaCombinações01"" (string vazia)11()22()(), (())35()()(), ()(()), (
 ## ⚡ Performance
 
 Otimizado para números até 20 (recomendado)
+
 Aviso automático para números muito grandes
+
 Geração de combinações apenas para n ≤ 5 (por questões de UX)
+
 Algoritmo eficiente com memoização
 
 ## 🐛 Tratamento de Erros
 
 Validação de entrada (números inteiros ≥ 0)
+
 Alertas informativos para entradas inválidas
+
 Limitação automática para evitar travamentos
+
 Mensagens de erro amigáveis
 
 ## 🔮 Futuras Melhorias
