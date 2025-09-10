@@ -114,7 +114,7 @@ Suporta números grandes com eficiência
 ```
 EntradaSaídaCombinações01"" (string vazia)11()22()(), (())35()()(), ()(()), (())(), (()()), ((()))41414 combinações diferentes
 ```
-##⚡ Performance
+## ⚡ Performance
 
 Otimizado para números até 20 (recomendado)
 Aviso automático para números muito grandes
